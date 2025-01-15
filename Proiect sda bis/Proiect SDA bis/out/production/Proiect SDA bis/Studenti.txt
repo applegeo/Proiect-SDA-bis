@@ -1,0 +1,4 @@
+Id,Nume,Prenume,An,Username,Password
+1,Ionescu,Andrei,Grupa1,1,ionescu.andrei@gmial.com,(parola criptata)
+2,Popescu,Maria,Grupa2,3,popescu.maria@gmail.com,(parola criptata)
+3,Popa,Ioana,Grupa1,2,popa.ioana@gmail.com,(parola criptata)

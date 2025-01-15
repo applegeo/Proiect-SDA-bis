@@ -1,0 +1,5 @@
+Id,Nume, Descriere,IdProfesor,AnCurs
+1,Rezistenta Materialelor,calculul reacţiunilor; calculul caracteristicilor geometrice ,1,2
+2,Riftul Invocatorului,Invocatorului ii sunt testate ceva nuj ,1,2
+3,Informatica,Structuri de date si algoritmi,2,1
+4,Matematici cam speciale,Nu stiu nu m am dus la curs,1,1

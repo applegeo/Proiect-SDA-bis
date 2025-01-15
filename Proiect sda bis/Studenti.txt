@@ -1,0 +1,10 @@
+Id,Nume,Prenume,An,Grupa,Username,Password
+1,Ionescu,Andrei,1,1,ionescu.andrei@gmial.com,c8a41dc36690ee9f539ec81c86acc53acb234e2416a90f1e59baa70155531d0e
+2,Popescu,Maria,2,1,popescu.maria@gmail.com,ac0eac1bfeabf2489c60c0012da2ab3921117710421840dd403df393f411091d
+3,Popa,Ioana,2,1,popa.ioana@gmail.com,(parola criptata)
+4,Calistru,Bogdan,2,1,bogdan.calistru@student.unitbv.ro,(parola criptata)
+5,Alexandru,Lita,2,1,alex@yahoo.com,c8a41dc36690ee9f539ec81c86acc53acb234e2416a90f1e59baa70155531d0e
+6,Bizo,Clau,1,1,justfox1978@yahoo.com,Fox21
+7,Buinoiu,George,1,4lf731,guboiu@yahoo.com,1fef8860ff95292d53aee962326a1b9feca78741755d3ce9f3e3b4e17afba2e6
+8,buinoiu,asd,5,1,asd,688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6
+9,Gunoiu,George,1,4LF532,gunoiu.george@gmail.com,46333ab0c16d22f43d72b1c5327378d7049f9c103e8d405057051e3bbab17761

@@ -1,0 +1,5 @@
+Id,Nume,Prenume,Username,Password
+1,Popescu,George,popescu.george@gmail.com,c8a41dc36690ee9f539ec81c86acc53acb234e2416a90f1e59baa70155531d0e
+2,Mihai,Elena,mihaela.elena@gmail.com,(parola criptata)
+3,George,Gunoiu,george.buinoiu@student.unitbv.ro,asd
+4,Labirint,Sasu,qwerty,65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5

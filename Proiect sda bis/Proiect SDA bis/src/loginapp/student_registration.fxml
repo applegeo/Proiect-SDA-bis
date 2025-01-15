@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.PasswordField?>
+<GridPane xmlns:fx="http://javafx.com/fxml" fx:controller="loginapp.StudentRegistrationController"
+          alignment="CENTER" hgap="10" vgap="10">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+
+    <!-- Etichete și câmpuri -->
+    <Label text="Nume:" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+    <TextField fx:id="numeField" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+
+    <Label text="Prenume:" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+    <TextField fx:id="prenumeField" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+
+    <Label text="Grupa:" GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+    <TextField fx:id="grupaField" GridPane.rowIndex="3" GridPane.columnIndex="1"/>
+
+    <Label text="An:" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+    <TextField fx:id="anField" GridPane.rowIndex="2" GridPane.columnIndex="1"/>
+
+    <Label text="Username:" GridPane.rowIndex="4" GridPane.columnIndex="0"/>
+    <TextField fx:id="usernameField" GridPane.rowIndex="4" GridPane.columnIndex="1"/>
+
+    <Label text="Parola:" GridPane.rowIndex="5" GridPane.columnIndex="0"/>
+    <PasswordField fx:id="passwordField" GridPane.rowIndex="5" GridPane.columnIndex="1"/>
+
+    <!-- Butoane -->
+    <Button text="Inregistreaza" onAction="#handleSubmitButton" GridPane.rowIndex="6" GridPane.columnIndex="1" GridPane.halignment="RIGHT"/>
+</GridPane>

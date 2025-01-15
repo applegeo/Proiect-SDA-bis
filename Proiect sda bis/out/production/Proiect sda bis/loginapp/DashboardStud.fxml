@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="loginapp.DashboardStudController" alignment="CENTER" spacing="10">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+
+    <Button text="Vezi Cursuri" onAction="#handleViewCourses"/>
+    <Button text="Vezi Note" onAction="#handleViewGrades"/>
+    <Button text="Vezi Media" onAction="#handleViewAverage"/>
+    <Button text="Vezi Restante" onAction="#handleViewResits"/>
+</VBox>
